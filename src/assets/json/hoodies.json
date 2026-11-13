@@ -1,0 +1,14 @@
+[
+    {"id":1,"name":"Black Zip-Zap Hoodies", "image":"https://i.pinimg.com/1200x/40/76/6f/40766f23b9a8dafb9f41819933b8f6b6.jpg", "price":1200 },
+    {"id":2,"name":"Hooded Shirts", "image":"https://i.pinimg.com/736x/1c/db/d0/1cdbd0db48f07bd6a7a495ee4e1d043e.jpg", "price":2800 },
+    {"id":3,"name":"Camel Brown Hoodies", "image":"https://i.pinimg.com/736x/72/ea/95/72ea95667a0538dde191b467a6a8d056.jpg", "price":1500 },
+    {"id":4,"name":"Casual Hoodie", "image":"https://i.pinimg.com/1200x/6d/d0/e9/6dd0e9178cecd8b0a2d993ce388147a3.jpg", "price":1200 },
+    {"id":5,"name":"Premium Hoodie", "image":"https://i.pinimg.com/1200x/8e/1b/36/8e1b36929980668e9be5489ee0319078.jpg", "price":1200 },
+    {"id":6,"name":"Unisex Hoodie", "image":"https://i.pinimg.com/736x/d1/44/38/d14438a3c47107824898f962a66e8521.jpg", "price":1200 },
+    {"id":7,"name":"Couple Goal", "image":"https://i.pinimg.com/736x/f4/30/03/f43003cf5c3c99f7b39b384ff7ecffd0.jpg", "price":1200 },
+    {"id":8,"name":"Comfrick", "image":"https://i.pinimg.com/1200x/ff/06/be/ff06beaef7d4f7f5e71f03cfd5acb99a.jpg", "price":1200 },
+    {"id":9,"name":"Camel Brown Hoodies for Girls", "image":"https://i.pinimg.com/1200x/62/cd/cd/62cdcd065f2fbd7a8b612fa861a12ea3.jpg", "price":1200 },
+    {"id":10,"name":"Essentails premium", "image":"https://i.pinimg.com/736x/12/9e/d3/129ed33c60607fac1755058dee1d9868.jpg", "price":1200 },
+    {"id":11,"name":"Bone Less Original", "image":"https://i.pinimg.com/1200x/7e/8d/59/7e8d59e2a5c9a79e7c8b11ed0d5a389a.jpg", "price":1200 },
+    {"id":12,"name":"Society Studio", "image":"https://i.pinimg.com/736x/a0/88/57/a08857397aa41a04b8500971a098e81a.jpg", "price":1200 }
+]
